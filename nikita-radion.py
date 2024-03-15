@@ -1,2 +1,1 @@
-print("My name is master")
-print("I love chocolate")
+print("My name is Nikita")
